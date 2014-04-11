@@ -11,6 +11,20 @@
 ** Section(6) - Printers
 */
 
+/* Section(1) - Smartphones */
+@media (max-width: 480px) {
+	.item-info > span {
+		display: block;
+	}
+	.blog-item .pull-right.item-image {
+		margin: 0 0 18px 0;
+	}
+	.blog-item .pull-left.item-image {
+		margin: 0 0 18px 0;
+		float: none;
+	}
+}
+
 /* Section(2) - Tablets */
 @media (min-width: 768px) and (max-width: 979px) {
 	.row {

@@ -1,4 +1,7 @@
-/* Misc. CSS which is irrelevant to the main document. Seperating this code allows for more organization, better maintance, and easier updates.*/
+/* Misc. CSS which is irrelevant to the main document. 
+** Seperating this code allows for more organization, better maintance, and easier updates.
+** This document should not be updated unless necessary. 
+*/
 .span12 {
 	width: 940px;
 }

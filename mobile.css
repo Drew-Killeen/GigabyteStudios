@@ -2,8 +2,16 @@
 ** The following allows the site to easily adjust to different screensizes. 
 ** Most useful for mobile devices, but also works well for smaller netbook screens.
 ** This doument also includes the styles for printers.
+**
+** Table of Contents...
+** Section(1) - Smartphones
+** Section(2) - Tablets
+** Section(4) - Small screens
+** Section(5) - Large screens
+** Section(6) - Printers
 */
 
+/* Section(6) - Printers */
 @media print {
 	* {
 		text-shadow: none !important;
